@@ -1,0 +1,14 @@
+# Parameters
+targetStr = "3-Completed"
+myPath = "C:\\Users\\1347409\\OneDrive - TCS COM PROD\\Documents\\Work\\Outlook\\"
+excluded = "ATT00,gif,jpg,png"
+
+# emails
+emailSubFolder = "emails\\"
+emailAttachmentSubFolder = "attachments\\"
+emailSaveExtension = ".doc"
+
+# calendar
+calendarSubFolder = "calendar\\"
+calendarAttachmentSubFolder = "attachments\\"
+calendarSaveExtension = ".doc"
